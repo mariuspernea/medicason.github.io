@@ -1,1 +1,1 @@
-# medicason.github.io
+# medicason
