@@ -33,7 +33,7 @@ html {
 }
 
 .nav ul li a {
-  font-family:'Aller','Lora', sans-serif;
+  font-family:'Aller','Lato', sans-serif;
   /*font-weight: bold;*/
   color: #0c397f;
   font-size:1.2em;
@@ -78,7 +78,7 @@ html {
   text-align:center;
   letter-spacing:0.5px;
   font-weight: 100;
-  font-family:'Aller','Lora', sans-serif;
+  font-family:'Aller','Lato', sans-serif;
   margin:50px auto;
   font-size:1.5em;
   width:80%;
